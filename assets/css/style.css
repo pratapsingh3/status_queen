@@ -1,0 +1,119 @@
+
+/* Main */
+
+.banner {
+	background-image: url('../img/banner.png');
+	background-size: cover;
+	height: 650px;
+}
+
+.banner1 {
+	background-image: url('../img/banner.png');
+	background-size: cover;
+	height: 300px;
+}
+
+.banner2 {
+	background-image: url('../img/banner.png');
+	background-size: cover;
+	height: 400px;
+}
+
+.banner3 {
+	background-image: url('../img/banner.png');
+	background-size: cover;
+	height: 320px;
+}
+
+.banner4 {
+	background-image: url('../img/banner.png');
+	background-size: cover;
+	height: 500px;
+}
+
+.whats {
+	margin-top: -32px;
+}
+
+.anchor a:hover {
+	color: #fd888e;
+}
+
+/* Font */
+
+.f-14{
+	font-size: 12px;
+}
+
+.f-32{
+	font-size: 32px;
+}
+
+.f-20{
+	font-size: 20px;
+}
+
+.f-72{
+	font-size: 72px;
+}
+
+.f-51 i{
+	font-size: 51px; 
+}
+
+/* Color */
+
+.bg-1 {
+	background-color: #e8e8e8;
+}
+
+.bg-2 {
+	background-color: #eeeeee;
+}
+
+.pink {
+	color: #fd888e;
+}
+
+.text-grad{
+	background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+}
+
+.like-Left{
+	float: left;
+}
+.right-Clear{
+	clear: both;
+}
+.like-Right{
+	float: right
+}
+
+.ban-link{
+	padding: 10px 350px;
+}
+
+.ban-link a{
+	margin-bottom: 500px!important;
+}
+
+.foot-Right{
+	display: none;
+}
+
+/* Border Radius */
+
+.br-1 {
+	border-radius: 20px;
+	box-shadow: -6px 10px 22px 5px #c8c8c8;
+}
+
+/* Button */
+
+.copy {
+	border-radius: 20px;
+	background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+	border: none;
+	padding-bottom: 5px;
+	
+}
